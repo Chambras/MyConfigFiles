@@ -79,3 +79,6 @@ code --install-extension vscjava.vscode-spring-initializr
 code --install-extension vscjava.vscode-spring-boot-dashboard
 code --install-extension vscjava.vscode-java-pack
 code --install-extension ms-vscode-remote.vscode-remote-extensionpack
+code --install-extension ms-mssql.mssql
+code --install-extension eamodio.gitlens
+code --install-extension castwide.solargraph
