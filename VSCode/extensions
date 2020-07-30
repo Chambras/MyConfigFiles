@@ -1,28 +1,37 @@
+# All extensions
+
 azuredevspaces.azds
 bencoleman.armview
 bierner.emojisense
+bmuskalla.vscode-tldr
 burtlo.inspec
+castwide.solargraph
 chef-software.chef
-CoenraadS.bracket-pair-colorizer
+CoenraadS.bracket-pair-colorizer-2
 DavidAnson.vscode-markdownlint
 DotJoshJohnson.xml
+eamodio.gitlens
+esbenp.prettier-vscode
 formulahendry.code-runner
 GitHub.github-vscode-theme
 golang.go
 googlecloudtools.cloudcode
 hashicorp.terraform
-jchannon.csharpextensions
 mindaro-dev.file-downloader
 mindaro.mindaro
 ms-azure-devops.azure-pipelines
 ms-azuretools.vscode-azureappservice
 ms-azuretools.vscode-azurefunctions
+ms-azuretools.vscode-azureresourcegroups
 ms-azuretools.vscode-azurestorage
+ms-azuretools.vscode-azurevirtualmachines
 ms-azuretools.vscode-cosmosdb
 ms-azuretools.vscode-docker
 ms-dotnettools.csharp
+ms-dotnettools.vscode-dotnet-runtime
 ms-kubernetes-tools.vscode-aks-tools
 ms-kubernetes-tools.vscode-kubernetes-tools
+ms-mssql.mssql
 ms-python.python
 ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-ssh
@@ -32,7 +41,9 @@ ms-vscode-remote.vscode-remote-extensionpack
 ms-vscode.azure-account
 ms-vscode.azurecli
 ms-vscode.powershell
+ms-vscode.vscode-node-azure-pack
 ms-vsts.team
+msazurermtools.azurerm-vscode-tools
 mutantdino.resourcemonitor
 Pivotal.vscode-spring-boot
 rebornix.ruby
@@ -49,3 +60,22 @@ vscjava.vscode-spring-boot-dashboard
 vscjava.vscode-spring-initializr
 vscode-icons-team.vscode-icons
 wingrunr21.vscode-ruby
+
+# Installation
+code --install-extension coenraads.bracket-pair-colorizer-2
+code --install-extension esbenp.prettier-vscode
+code --install-extension bmuskalla.vscode-tldr
+code --install-extension bencoleman.armview
+code --install-extension davidanson.vscode-markdownlint
+code --install-extension formulahendry.code-runner
+code --install-extension golang.go
+code --install-extension googlecloudtools.cloudcode
+code --install-extension ms-dotnettools.csharp
+code --install-extension ms-vscode.vscode-node-azure-pack
+code --install-extension Pivotal.vscode-spring-boot
+code --install-extension redhat.vscode-xml
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension vscjava.vscode-spring-initializr
+code --install-extension vscjava.vscode-spring-boot-dashboard
+code --install-extension vscjava.vscode-java-pack
+code --install-extension ms-vscode-remote.vscode-remote-extensionpack
