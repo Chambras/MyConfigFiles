@@ -82,3 +82,4 @@ code --install-extension ms-vscode-remote.vscode-remote-extensionpack
 code --install-extension ms-mssql.mssql
 code --install-extension eamodio.gitlens
 code --install-extension castwide.solargraph
+code --install-extension ms-python.python
