@@ -1,0 +1,32 @@
+{
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true,
+    "**/.git": true
+  },
+  "python.jediEnabled": false,
+  "team.showWelcomeMessage": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "remote.containers.defaultExtensions": [
+    "mauve.terraform",
+    "mutantdino.resourcemonitor",
+    "redhat.vscode-yaml",
+    "ms-azuretools.vscode-azureterraform"
+  ],
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Cascadia Code PL', Consolas, 'Courier New', monospace",
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "terminal.integrated.copyOnSelection": true,
+  "editor.wordWrap": "on",
+  "remote.SSH.remotePlatform": {
+    "DevEnvVM": "linux"
+  },
+  "diffEditor.renderSideBySide": true,
+  "workbench.colorTheme": "GitHub Dark",
+  "editor.formatOnSave": true
+}
