@@ -96,3 +96,5 @@ code --install-extension redhat.java
 code --install-extension redhat.vscode-yaml
 code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension wingrunr21.vscode-ruby
+code --install-extension ms-vscode.powershell
+code --install-extension ms-vsts.team
