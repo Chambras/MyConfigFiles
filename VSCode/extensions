@@ -62,11 +62,16 @@ vscode-icons-team.vscode-icons
 wingrunr21.vscode-ruby
 
 # Installation
+code --install-extension azuredevspaces.azds
+code --install-extension bierner.emojisense
+code --install-extension burtlo.inspec
+code --install-extension chef-software.chef
 code --install-extension coenraads.bracket-pair-colorizer-2
 code --install-extension esbenp.prettier-vscode
 code --install-extension bmuskalla.vscode-tldr
 code --install-extension bencoleman.armview
 code --install-extension davidanson.vscode-markdownlint
+code --install-extension DotJoshJohnson.xml
 code --install-extension formulahendry.code-runner
 code --install-extension golang.go
 code --install-extension googlecloudtools.cloudcode
@@ -83,3 +88,11 @@ code --install-extension ms-mssql.mssql
 code --install-extension eamodio.gitlens
 code --install-extension castwide.solargraph
 code --install-extension ms-python.python
+code --install-extension GitHub.github-vscode-theme
+code --install-extension hashicorp.terraform
+code --install-extension mutantdino.resourcemonitor
+code --install-extension rebornix.ruby
+code --install-extension redhat.java
+code --install-extension redhat.vscode-yaml
+code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension wingrunr21.vscode-ruby
