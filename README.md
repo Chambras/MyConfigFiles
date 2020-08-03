@@ -6,6 +6,7 @@ My personal configurations for:
 - Windows Terminal Preview
 - VSCode
 - VSCode Extensions
+- VSCode Terraform Snippets
 
 ## Project Structure
 
@@ -18,7 +19,8 @@ My personal configurations for:
 │   └── settings.json
 └── VSCode
     ├── installextensions.bat
-    └── settings.json
+    ├── settings.json
+    └── terraform.json
 ```
 
 ## List of VSCode extensions
@@ -85,6 +87,10 @@ The following extensions are included in the installation script under VSCode/in
 - vscjava.vscode-spring-initializr
 - vscode-icons-team.vscode-icons
 - wingrunr21.vscode-ruby
+
+## VSCode Snippets
+
+I will keep adding more, but for now I only have for terraform. You just need to copy _VSCode\terraform.json_ to _`%APPDATA%\Code\User\snippets\`_
 
 ## Authors
 
